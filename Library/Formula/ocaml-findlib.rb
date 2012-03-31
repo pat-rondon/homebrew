@@ -1,6 +1,6 @@
 require 'formula'
 
-class Findlib < Formula
+class OcamlFindlib < Formula
   url 'http://download.camlcity.org/download/findlib-1.2.8.tar.gz'
   homepage 'http://projects.camlcity.org/projects/findlib.html'
   md5 'a1da0fddf589ae62fa9b50799cd04c17'
