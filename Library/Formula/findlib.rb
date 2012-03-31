@@ -1,9 +1,9 @@
 require 'formula'
 
 class Findlib < Formula
-  url 'http://download.camlcity.org/download/findlib-1.2.7.tar.gz'
+  url 'http://download.camlcity.org/download/findlib-1.2.8.tar.gz'
   homepage 'http://projects.camlcity.org/projects/findlib.html'
-  md5 '000bff723e8d3d727a7edd5b5901b540'
+  md5 'a1da0fddf589ae62fa9b50799cd04c17'
 
   depends_on 'objective-caml'
   skip_clean :all
